@@ -1,4 +1,4 @@
-# bootstrap-vue-example
+# NFT Tron website
 
 ## Project setup
 ```
